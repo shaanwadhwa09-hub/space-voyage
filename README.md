@@ -15,7 +15,7 @@ A responsive, multi-page React Single Page Application (SPA) built for the **Fro
 * **State Management:** Native Hooks (`useState`, `useEffect`, `useRef`, `useMemo`)
 
 ## 👥 Contributors & Roles
-* **Member 1 Name** (UI Architect): Core styling, responsive layouts, cosmic animations.
-* **Member 2 Name** (Routing Engineer): Navigation flow, protected routes, and Local Storage.
-* **Member 3 Name** (Physics Dev): Gravity sandbox mathematics, DOM manipulations with `useRef`.
-* **Member 4 Name** (API Specialist): Async telemetry integration and API connection.
+* **Shaan Wadhwa** (UI Architect): Core styling, responsive layouts, cosmic animations.
+* **Ansh Sharma** (Routing Engineer): Navigation flow, protected routes, and Local Storage.
+* **Palki Vij** (Physics Dev): Gravity sandbox mathematics, DOM manipulations with `useRef`.
+* **Sumit Sharma** (API Specialist): Async telemetry integration and API connection.
