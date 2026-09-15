@@ -16,6 +16,6 @@ A responsive, multi-page React Single Page Application (SPA) built for the **Fro
 
 ## 👥 Contributors & Roles
 * ** Shaan Wadhwa ** (UI Architect): Core styling, responsive layouts, cosmic animations.
-* ** Ansh Sharma ** (Routing Engineer): Navigation flow, protected routes, and Local Storage.
+* ** Palki Vij ** (Routing Engineer): Navigation flow, protected routes, and Local Storage.
 * ** Sumit Sharma ** (Physics Dev): Gravity sandbox mathematics, DOM manipulations with `useRef`.
 * ** Sumit Sharma ** (API Specialist): Async telemetry integration and API connection.
